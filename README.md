@@ -22,7 +22,7 @@ Features
 
 * Easy to use, just set language and point to a JSON file.
 * Uses the primary language as the lookup key, so strings are understandable in your application.
-* Add any number of languages with two-letter language key.
+* Add any number of languages with a language key.
 * Fails silently - untranslated strings will just output the lookup string.
 * Load more than one language file for different parts of your application.
 * Short translation function name (`get`) for easy typing.
