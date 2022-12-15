@@ -1,0 +1,53 @@
+{
+    "Adding my municipality to ADUSearch" : {
+        "fr" : "Ajouter ma commune à ADUSearch"
+    },
+    "Email Address" : {
+        "fr" : "Addresse courriel"
+    },
+    "Last Name" : {
+        "fr" : "Nom de famille"
+    },
+    "Learning more about ADUSearch" : {
+        "fr" : "En savoir plus sur ADUSearch"
+    },
+    "Message" : {
+        "fr" : "Message"
+    },
+    "My inquiry is related to" : {
+        "fr" : "Ma demande concerne"
+    },
+    "Other" : {
+        "fr" : "Autre"
+    },
+    "Partnership opportunities" : {
+        "fr" : "Opportunités de partenariat"
+    },
+    "Phone Number" : {
+        "fr" : "Numéro de téléphone"
+    },
+    "Please confirm the \"I'm not a robot\" checkbox." : {
+        "fr" : "Veuillez cocher la case \"Je ne suis pas un robot\"."
+    },
+    "Please fill out all required fields (*)." : {
+        "fr" : "S'il-vous-plaît remplissez tous les champs requis (*)."
+    },
+    "Please supply the following" : {
+        "fr" : "Veuillez fournir ce qui suit"
+    },
+    "Reporting a data accuracy issue" : {
+        "fr" : "Signaler un problème d'exactitude des données"
+    },
+    "Send" : {
+        "fr" : "Envoyer"
+    },
+    "Thank you, your email has been sent." : {
+        "fr" : "Merci, votre email a été envoyé."
+    },
+    "There was an error when trying to send your message. Please try again later." : {
+        "fr" : "Une erreur s'est produite lors de la tentative d'envoi de votre message. Veuillez réessayer plus tard."
+    },
+    "Your Name" : {
+        "fr" : "Votre nom"
+    }
+}

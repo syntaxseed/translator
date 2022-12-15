@@ -1,0 +1,18 @@
+{
+    "Email address" : {
+        "fr" : "Addresse courriel",
+        "es" : "Dirección de correo electrónico"
+    },
+    "Last name" : {
+        "fr" : "Nom de famille",
+        "es" : "Apellido"
+    },
+    "Phone number" : {
+        "fr" : "Numéro de téléphone",
+        "es" : "Número de teléfono"
+    },
+    "Your name" : {
+        "fr" : "Votre nom",
+        "es" : "Su nombre"
+    }
+}
