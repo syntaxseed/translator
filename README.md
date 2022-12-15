@@ -17,6 +17,17 @@ Load JSON language files and translate them in your application.
 * Author: Sherri Wheeler sherri.syntaxseed@ofitall.com
 * Packagist: https://packagist.org/packages/syntaxseed/translator
 
+Features
+--------
+
+* Easy to use, just set language and point to a JSON file.
+* Uses the primary language as the lookup key, so strings are understandable in your application.
+* Add any number of languages with two-letter language key.
+* Fails silently - untranslated strings will just output the lookup string.
+* Load more than one language file for different parts of your application.
+* Short translation function name (`get`) for easy typing.
+* Switch target language when needed.
+
 Install
 --------
 
@@ -35,7 +46,7 @@ Or add to composer.json:
 Usage
 --------
 
-> More in-depth example, see `examples/` directory.
+> For a more in-depth example, see `examples/` directory.
 
 ```php
 use Syntaxseed\Translator\Translator;
@@ -50,7 +61,25 @@ $translations->loadLanguageFile(__DIR__.'/lang.json');
 echo($translations->get('Hello World'));
 ```
 
+Language File JSON Format
+--------
 
+```json
+{
+    "Email address" : {
+        "fr" : "Addresse courriel",
+        "es" : "Dirección de correo electrónico"
+    },
+    "Last name" : {
+        "fr" : "Nom de famille",
+        "es" : "Apellido"
+    },
+    "Your name" : {
+        "fr" : "Votre nom",
+        "es" : "Su nombre"
+    }
+}
+```
 
 Changelog
 --------
