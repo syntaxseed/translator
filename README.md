@@ -12,8 +12,8 @@ JSON Translator
 Load JSON language files and translate them in your application.
 
 * Licence: MIT
-* Version: 1.0.8
-* PHP Versions: 7.X, 8.0+, 8.1+, 8.2+
+* Version: 1.0.0
+* PHP Versions: 7.x, 8.0+, 8.1+, 8.2+
 * Author: Sherri Wheeler
 * Packagist: https://packagist.org/packages/syntaxseed/translator
 
